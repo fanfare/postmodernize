@@ -1,0 +1,25 @@
+{
+  "name": "postmodernize",
+  "version": "1.0.0",
+  "description": "make your project seem modern",
+  "main": "bin/postmodernize.js",
+  "bin": {
+    "postmodernize": "bin/postmodernize.js"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modern",
+    "postmodern"
+  ],
+  "author": "Rene Ae",
+  "license": "ISC",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "javascript-obfuscator": "^2.10.3"
+  }
+}
