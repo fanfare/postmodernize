@@ -1,3 +1,6 @@
 node_modules/
 jibber/
 public/
+package.json
+package-lock.json
+
